@@ -55,6 +55,12 @@
     height: 169px;
 }
 
+.photo-container img {
+    max-width: 100%;
+    widtH: 300px;
+    height: 169px;
+}
+
 .photo-overlay {
     color: #fff;
     position: absolute;
